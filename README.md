@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='[[http://i.imgur.com/link/to/your/gif/file.gif]](https://github.com/yuvi55/web102_prework/blob/main/demo.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[[http://i.imgur.com/link/to/your/gif/file.gif]][(https://github.com/yuvi55/web102_prework/blob/main/demo.gif)](https://github.com/yuvi55/web102_prework/blob/bcfa4db7c37180019ac64cf56e48a23ea921de49/demo.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
