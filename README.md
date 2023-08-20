@@ -15,12 +15,10 @@ The following **required** functionality is completed:
 * [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
 * [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
-The following **optional** features are implemented:
-
 * [x] List anything else that you can get done to improve the app functionality!
-      **Improve user interface using a framework like angular or react.
-      **Host the website on a server
-      **Use a database
+      * Improve user interface using a framework like angular or react.
+      * Host the website on a server
+      * Use a database
 
 ## Video Walkthrough
 
