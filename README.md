@@ -15,15 +15,13 @@ The following **required** functionality is completed:
 * [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
 * [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
-* [x] List anything else that you can get done to improve the app functionality!
-
-## List of features to improve on 
+** List of features to improve on **
 
 1) Improve user interface using a framework like angular or react.
 2) Host the website on a server
 3) Use a database like MongoDB to store user records and more number of games
 
-## Brief Description of the work done
+** Brief Description of the work done**
 1) Have successfully displayed all the games present in the games.js file.
 2) Have added overall Individual Contribution, Total funds raised, and number of game statistics in the stats section
 3) Created filter functions to help shortlist games by type of funding
